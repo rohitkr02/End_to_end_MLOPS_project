@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/cicddemo/End_to_end_MLOPS_project/mlruns/0/a18ae6a8728d4ead9b5f910318a65195/artifacts
+end_time: 1738267180553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a18ae6a8728d4ead9b5f910318a65195
+run_name: chill-lamb-935
+run_uuid: a18ae6a8728d4ead9b5f910318a65195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738267170924
+status: 4
+tags: []
+user_id: rohit

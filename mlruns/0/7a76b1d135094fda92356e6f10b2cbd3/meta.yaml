@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/cicddemo/End_to_end_MLOPS_project/mlruns/0/7a76b1d135094fda92356e6f10b2cbd3/artifacts
+end_time: 1738254407514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a76b1d135094fda92356e6f10b2cbd3
+run_name: beautiful-slug-458
+run_uuid: 7a76b1d135094fda92356e6f10b2cbd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738254404915
+status: 4
+tags: []
+user_id: rohit

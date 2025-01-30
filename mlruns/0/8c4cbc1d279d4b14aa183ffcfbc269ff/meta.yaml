@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/cicddemo/End_to_end_MLOPS_project/mlruns/0/8c4cbc1d279d4b14aa183ffcfbc269ff/artifacts
+end_time: 1738256793716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c4cbc1d279d4b14aa183ffcfbc269ff
+run_name: mercurial-asp-921
+run_uuid: 8c4cbc1d279d4b14aa183ffcfbc269ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738256791166
+status: 4
+tags: []
+user_id: rohit

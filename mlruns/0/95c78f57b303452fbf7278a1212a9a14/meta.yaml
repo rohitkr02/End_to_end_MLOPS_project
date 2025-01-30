@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/cicddemo/End_to_end_MLOPS_project/mlruns/0/95c78f57b303452fbf7278a1212a9a14/artifacts
+end_time: 1738256969949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95c78f57b303452fbf7278a1212a9a14
+run_name: glamorous-whale-294
+run_uuid: 95c78f57b303452fbf7278a1212a9a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738256967324
+status: 3
+tags: []
+user_id: rohit
